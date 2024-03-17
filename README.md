@@ -1,4 +1,4 @@
 # Demo-page-
 This is my first repository
 <br>
-Athour-Md Smmi Ansari
+Authour-Md Smmi Ansari
